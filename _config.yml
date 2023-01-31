@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Rui Sun"
   avatar           : "profile.png"
-  bio              : "Bachelor of Philosophy, Sun Yat-sen University"
+  bio              : ""
   location         : "London"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "rui.alexander.sun"
+  email            : "rui.alexander.sun@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/Rui_Alex_Sun"
+  twitter          : "Rui_Alex_Sun"
   vine             :
   weibo            :
   xing             :
